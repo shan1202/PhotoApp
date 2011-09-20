@@ -13,7 +13,7 @@
 	<key>CFBundleIconFile</key>
 	<string>logo.jpg</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.JXT.photopicker</string>
+	<string>com.chinarewards.photopicker</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
